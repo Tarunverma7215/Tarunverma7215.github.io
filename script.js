@@ -2,7 +2,7 @@
 const projects = [
   {
     title: "Annsetu",
-    image: "annsetu.jpg",
+    image: "Annsetu.jpg",
     imageAlt: "Annsetu dashboard showing booked quantity, live queue, payments cleared and active farmers",
     short: "A farmer procurement platform where farmers pre-book a collection slot, follow the live queue and track payment, built for Smart India Hackathon 2026.",
     description: "Annsetu makes the journey from harvest to payment predictable for farmers. Instead of turning up at the mandi and waiting without knowing what will happen, a farmer pre-books a delivery slot, sees how many people are ahead in the queue, and follows the payment until it is settled. Built by a team of 6 for Smart India Hackathon 2026 (final round results awaited).",
